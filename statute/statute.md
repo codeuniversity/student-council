@@ -1,13 +1,13 @@
-# Statutes of the student body of the CODE University of Applied Sciences
+# Statutes of the Student Body of the CODE University of Applied Sciences
 
 
-## From October 01, 2019
+From December 18, 2020
 
 
 # I General
 
 
-## 1 - Scope of application
+## § 1 - Scope of application
 
 These statutes regulate in particular the education, composition, responsibility, procedures and terms of office of the student body of the CODE University of Applied Sciences.
 
@@ -21,7 +21,7 @@ These statutes regulate in particular the education, composition, responsibility
 
 ## 3 - Organs of the student body and composition
 
-(1) The central bodies of the student body are
+(1) The central organs of the student body are
 
 
 
@@ -29,18 +29,19 @@ These statutes regulate in particular the education, composition, responsibility
 2. the General Assemblies of the Study Programmes,
 3. the Student Council.
 
-(2) The Student General Assembly is composed of the student body  at the time of the meeting.
+(2) The Student General Assembly is composed of the student body at the time of the meeting.
 
-(3) The General Assembly of the Study Programmes shall be composed of members of the student body  of the respective degree programmes (Product Management, Interaction Design or Software Engineering) at the time of the meeting.
+(3) The General Assembly of the Study Programmes shall be composed of members of the student body of the respective degree programmes (Product Management, Interaction Design or Software Engineering) at the time of the meeting.
 
 (4) The Student Council is composed of
 
 
 
 1. the three elected members to the Senate,
-2. the five student members of the standing committees (Research commission, Commission for quality assurance in project based learning, Board of Examiners, Admissions committee (2) and Strategie and Development),
-3. two additional council members (one female and one male),
-4. a chairperson of the council.
+2. the five student members of the standing committees (Research commission, Commission for quality assurance in project based learning, Board of Examiners, Admissions committee (2) and Strategy and Development),
+3. the three elected members to the Study Programme Council as the respective representative,
+4. two additional council members (one female and one male),
+5. a chairperson of the council.
 
 (5) Additional representatives elected by the organs are not part of the Student Council.
 
@@ -60,13 +61,14 @@ If members of the student body are not present, they may use an electronic votin
 1. a chairperson of the council,
 2. a female councilmember,
 3. a male councilmember,
-4. for each standing committee, one person proposed to the Senate for appointment as a student member.
+4. for each standing committee, one person proposed to the Senate for appointment as a student member,
+5. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
 
-(4) The General Assembly of the Study Programmes elect a member of the Senate and a deputy member each.
+(4) The General Assembly of the Study Programmes elect a member of the Senate. The elected student members of the Study Programme Council are a deputy to the respective student member of the Senate.  
 
 (5) The election for the senate members of the General Assembly of the Study Programmes can be held within a Student General Assembly.
 
-(6) The members of the organs are elected according to the principles of majority voting. The person with the most votes, but at least 50% + 1 votes gets elected. If no candidate manages to fulfill this quorum a final ballot between the person with the most votes and the runner up is held. The person with the most votes in the final ballot is elected.
+(6) The members of the organs are elected according to the principles of majority voting. The person with the most votes, but at least 50% + 1 votes gets elected. If no candidate manages to achieve this majority a final ballot between the person with the most votes and the runner up is held. The person with the most votes in the final ballot is elected.
 
 (7) In a majority election, the voting person has as many votes as there are positions to be filled.
 
@@ -98,20 +100,20 @@ If members of the student body are not present, they may use an electronic votin
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
-(3) If a member resigns from a body elected by the General Assembly of the Study Programmes, the deputy member replaces the resigning member.  A successor shall be elected immediately for the alternate member who has moved up.
+(3) If a member resigns from a body elected by the General Assembly of the Study Programmes,  a successor is to be elected immediately.
 
 (4) If a member of a committee is not able to attend a meeting, another member of the Student Council can take the place. This can happen for up to three consecutive committee meetings.
 
-(5) If a member of the senate is not able to attend a meeting, the deputy member can take the place.
+(5) If a member of the Senate is not able to attend a meeting, the deputy member can take the place.
 
-(6) If the student representative of the admissions committee is not able to attend an assignment day the representative can freely choose a replacement of all enrolled students. Hereby should be kept in mind, that the maturity and the training of the replacement person is given to ensure a high quality and fair admission process.
+(6) If the student representative of the Admissions committee is not able to attend an admission day, the representative can freely choose a replacement from the student body. It should be kept in mind that the maturity and the training of the replacement person is given to ensure a high quality and fair admission process.
 
 
 ## 7 - Convening
 
-(1) The organs shall be convened by their chairperson and, at the request of a quarter of their members, unless otherwise provided in these Articles of Association.
+(1) The organs shall be convened by their chairperson or, at the request of a quarter of their members, unless otherwise provided in these statutes.
 
-(2) A request pursuant to para. 1 shall be addressed by Slack in the student channel of the organ to the chairperson or the chairperson of the organ, unless otherwise provided in these statutes. It must contain first and surname, date and mention of the members. The mentioned members must signal their support within 48 hours of posting by means of a comment.
+(2) A request pursuant to para. 1 shall be addressed via Slack in the student channel of the organ to the chairperson or the chairperson of the organ, unless otherwise provided in these statutes. It must contain the first and surname, date and mention of the members. The mentioned members must signal their support within 48 hours of posting by means of a comment.
 
 
 ## 8 - Amendment of legal provisions
@@ -171,7 +173,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (1) The Student General Assembly shall constitute a quorum if 10 percent of all members of the student body are present.
 
-(2) If the Student General Assembly is convened again after an absence of a quorum to deal with the same matter, it shall in any case be quorate if reference is made to this in the invitation.
+(2) If the Student General Assembly is convened again after an absence of a quorum to deal with the same matter, it shall in any case be quorate if this is indicated in the invitation.
 
 (3) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
 
@@ -181,14 +183,14 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 ## 15 - Chairing the General Assembly of the Study Programmes
 
-(1) The General Assemblies of the Study Programmes are chaired by Presidiums consisting of three people. The election of each Presidium shall take place in open ballot by a show of hands. Resolutions of a Presidium can only be passed unanimously. 
+(1) The General Assemblies of the Study Programmes are chaired by Presidiums consisting of three people. The election of each Presidium shall take place by open ballot by a show of hands. Resolutions of a Presidium can only be passed unanimously. 
 
 (2) If the General Assembly of the Study Programmes is held within a Student General Assembly, the chair (Student Council or Presidium) of the Student General Assembly will also chair the General Assemblies of the Study Programmes.
 
 
 ## 16 - Work of the General Assemblies of the Study Programmes
 
-(1) The General  Assembly of a Study Program meets at
+(1) The General Assembly of a Study Programme meets at
 
 1. resolution of the student council,
 
@@ -196,15 +198,17 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 3. a request from 10 percent of all members of a study program.
 
-(2) The General Assembly of a Study Program elects a representative for the senate, who automatically joins the Student Council. \
-(3) The General Assembly of a Study Program elects a deputy for it’s representative, who is not a member of the Student Council.
+(2) The General Assembly of a Study Programme elects a representative for the senate, who automatically joins the Student Council.
+
+(3) The General Assembly of a Study Programme elects a representative for the Study Programme Council, who automatically joins the Student Council. \
+
 
 
 ## 17 - Quorum
 
 (1) The General Assemblies of the Study Programmes shall constitute a quorum if 10 percent of all members of the degree programme are present.
 
-(2) If a General Assembly of the Study Programmes is convened again after a lack of quorum to discuss the same subject, it shall in any case have a quorum if this is indicated in the invitation.
+(2) If a General Assembly of the Study Programmes is convened again after a lack of quorum to discuss the same subject, it shall in any case be quorate if this is indicated in the invitation.
 
 (3) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
 
@@ -234,7 +238,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (1) The Student Council shall be chaired by the chairperson of the council.
 
-(2) If there is no Student Council chairing member in office, the Student Council shall be headed by a Presidium consisting of three members. The election of the Presidium shall held be by open ballot and a show of hands. Resolutions of the Presidium can only be passed unanimously.
+(2) If there is no Student Council chairing member in office, the Student Council shall be headed by a Presidium consisting of three members. The election of the Presidium shall be held by open ballot by a show of hands. Resolutions of the Presidium can only be passed unanimously.
 
 
 ## 20 - Quorum
