@@ -266,12 +266,12 @@ This does not apply if the vote is to be held anonymously. The mechanisms of an 
 
 ### Determining the quorum
 
-(3) The quorum shall be determined by the chair of the meeting at the beginning of each meeting or after the resumption of the meeting. If the quorum is doubted in the course of the meeting (ROP-motion), the chair of the meeting must review the quorum.
+(6) The quorum shall be determined by the chair of the meeting at the beginning of each meeting or after the resumption of the meeting. If the quorum is doubted in the course of the meeting (ROP-motion), the chair of the meeting must review the quorum.
 
 
 ### Consequences of the absence of a quorum
 
-(4) In the event of the absence of a quorum, the chair shall set a break for a specified period of time or terminate the Student General Assembly. If, after an absence of a quorum, the Student General Assembly is called to deal with the same subject again, it shall in any event be quorate, if this is indicated in the invitation.
+(7) In the event of the absence of a quorum, the chair shall set a break for a specified period of time or terminate the Student General Assembly. If, after an absence of a quorum, the Student General Assembly is called to deal with the same subject again, it shall in any event be quorate, if this is indicated in the invitation.
 
 
 ## 11 - Voting
