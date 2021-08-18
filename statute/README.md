@@ -1,3 +1,5 @@
+# Statute of the Student Body
+
 > **§ 1 - Scope of application**
 These statutes regulate in particular the education, composition, responsibility, procedures and terms of office of the student body of the CODE University of Applied Sciences.
 
