@@ -2,7 +2,7 @@
 
 You can find the current and all past versions of the [Statute](statute) and [Rules of Procedure of the Student General Assembly]((rules-of-procedure)) here. 
 
-This repository shall serve as the interface for discussions around future amendments to the Rules of Procedure. We will utilize Pull Requests for suggesting, discussing and potentially updating the Rules of Procedure. 
+This repository shall serve as the interface for discussions around future amendments to these documents. We will utilize Pull Requests for suggesting, discussing and implementing amendments.
 
 You can find Contribution Guidelines to the documents in the respective folders.
 
