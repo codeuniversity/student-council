@@ -249,7 +249,19 @@ If a substantive counter-argument is made, the vote must be cast after the count
 
 § 5 paragraph 2 remains unaffected.
 
-(2) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
+(2) Only members who 
+ (a) are physically present in the meeting room if the assembly is held in person or
+ (b) who are suitably connected to the respective telephone conference or other video and audio application if the assembly is held online. 
+ 
+are considered to be present.
+
+(3) The members of an online assembly have to present themselves in a identifiable manner via video or audio.
+
+(4) Members of an online assembly have to be able to cast their vote by the showing of hand, by voice or through defined alternative ways of communication for votings (e.g. the use of pre-defined emoji reactions). 
+
+This does not apply if the vote is to be held anonymously. The mechanisms of an online anonymous voting are defined by the chair prior to the assembly.
+
+(5) The definition of presence in paragraph 1 and 2 for the legitimacy of voting does not apply for votings that are addressed to the entirety of the membership. Voting mechanisms for this kind have to be provided in a manner that includes all members for participation equally.
 
 
 ### Determining the quorum
