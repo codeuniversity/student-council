@@ -251,7 +251,7 @@ If a substantive counter-argument is made, the vote must be cast after the count
 
 (2) Only members who 
  (a) are physically present in the meeting room if the assembly is held in person or
- (b) who are suitably connected to the respective telephone conference or other video and audio application if the assembly is held online. 
+ (b) who are suitably connected to the respective telephone conference or other video and audio application if the assembly is held online 
  
 are considered to be present.
 
