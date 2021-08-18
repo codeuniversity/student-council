@@ -1,6 +1,6 @@
 # Rules of procedure of the Student General Assembly of the CODE University of Applied Sciences
 
-From October 12, 2018
+From October 01, 2019
 
 Remark:
 
@@ -9,29 +9,37 @@ The term “ROP-motion” stands for “Rules of procedure motion” and is expl
 
 # I. General information
 
-1 - Voting, speaking and proposing rights
 
-Members
+## 1 - Voting, speaking and proposing rights
 
-(1) Votes, speeches and motions can be cast by enrolled students of the university.
 
-Non-members
+### Members
+
+(1) Votes, speeches and motions can be cast by members of the student body (as defined in the statute of the student body).
+
+
+### Non-members
 
 (2) Other persons may, by resolution of the Student General Assembly, have the right to speak (ROP-motion) or right to propose motions (ROP-motion). The right of non-members to propose motions does not include motions concerning the rules of procedure.
 
-2 - Chairing of meetings
+
+## 2 - Chairing of meetings
 
 The chair of the meeting convenes the meetings, proposes the agenda of the meeting and implements the resolutions.
 
-3 - Rules of Procedure
 
-Design, deviation, modification
+## 3 - Rules of Procedure
+
+
+### Design, deviation, modification
 
 Doubts concerning the interpretation of the Rules of Procedure shall be decided by the chair. The Student General Assembly decides, in case that within the session management no agreement is reached. About deviations on a case-by-case basis and on amendments to the Rules of Procedure the Student General Assembly decides.
 
-4 - Protocol
 
-Protocol content
+## 4 - Protocol
+
+
+### Protocol content
 
 (1) A protocol of each meeting shall be taken by the chair of the meeting
 
@@ -55,98 +63,116 @@ which contains the following information:
 
     6. protocol declarations pursuant to § 11 point 7.
 
-Approval
+
+### Approval
 
 (2) The protocol is to be attached on the invitation of the next meeting and approved in it.
 
 
 # II. Meetings
 
-5 - Convocation
 
-Invitation
+## 5 - Convocation
+
+
+### Invitation
 
 (1) A meeting shall be convened by e-mail. The invitation must have attached the agenda and the consultation documents.
 
 The invitation is to be send at the latest on the 7th day before the day of the meeting to the members of the Student General Assembly.
 
-Urgency Invitation
+
+### Urgency Invitation
 
 (2) In case of particular urgency, the time limit pursuant to point 1 shall not apply.
 
 In this case, the meeting shall be deemed to have been duly convened, if a quorum is established at the beginning of the meeting and the urgency is determined by resolution.
 
-6 - Agenda
 
-Agenda motions
+## 6 - Agenda
+
+
+### Agenda motions
 
 (1) All persons entitled to apply shall have the right, before the entry into the agenda, to add further items to the agenda. 
 
-Agenda procedure
+
+### Agenda procedure
 
 (2) Before entering the agenda, the Student General Assembly may change the fixed order of the items in the agenda (ROP-motion) or to dismiss it at all (ROP-motion).
 
-Resolution on the agenda
+
+### Resolution on the agenda
 
 (3) The agenda shall be adopted by the Student General Assembly at the beginning of the meeting.
 
-7 - Consultation
 
-Joint consultation
+## 7 - Consultation
+
+
+### Joint consultation
 
 (1) The chair of the meeting shall open a consultation on every subject on the agenda. Similar or related items can be discussed together at any time by resolution (ROP-motion).
 
-Speech list
+
+### Speech list
 
 (2) Anyone who wishes to speak on the merits or make a request shall raise a hand
 
 for inclusion in the speech list.
 
-Gender-quoted word division
 
-(3) The chair of the meeting shall give the floor alternately to a man and a woman in the respective order on the list of speakers. The gender identification is decisive to which list the person will be added.
+### Deviations from the speech list
 
-Deviations from the speech list
+(3) Motion applicants may have the floor at the beginning of the meeting, if they demand it, outside the list of speakers. Outside the list of speakers, the chair of the meeting may give the floor to the applicant for a direct reply.
 
-(4) Motion applicants may have the floor at the beginning of the meeting, if they demand it, outside the list of speakers. Outside the list of speakers, the chair of the meeting may give the floor to the applicant for a direct reply.
 
-Conclusion of the speech list
+### Conclusion of the speech list
 
-(5) The list of speakers may be closed by decision (ROP-motion) and be reopened (ROP-motion).
+(4) The list of speakers may be closed by decision (ROP-motion) and be reopened (ROP-motion).
 
-Speaking time limit
 
-(6) The General Assembly may limit the speaking time (ROP-motion). If a speaker exceeds their time the chair of the meeting shall withdraw the word after a single reminder.
+### Speaking time limit
 
-Conclusion of the consultation
+(5) The General Assembly may limit the speaking time (ROP-motion). If a speaker exceeds their time the chair of the meeting shall withdraw the word after a single reminder.
 
-(7) The chair of the meeting shall close the discussion if the list of speech is exhausted or the meeting has been closed by decision (ROP-motion). Before the vote on the request for closing the speech list is cast, the speech list shall be read out.
 
-Postponement
+### Conclusion of the consultation
 
-(8) The Student General Assembly may deliberate on individual items of discussion
+(6) The chair of the meeting shall close the discussion if the list of speech is exhausted or the meeting has been closed by decision (ROP-motion). Before the vote on the request for closing the speech list is cast, the speech list shall be read out.
 
-adjourned by resolution (ROP-motion). Postponed items of will be placed on the agenda of the next meeting unless another date is determined.
 
-8 - Motions
+### Postponement
 
-Writing of Motions
+(7) The Student General Assembly may deliberate on individual items of discussion
+
+adjourned by resolution (ROP-motion). Postponed items will be placed on the agenda of the next meeting unless another date is determined.
+
+
+## 8 - Motions
+
+
+### Writing of Motions
 
 (1) Motions other than those concerning the Rules of Procedure are to be handed in in written form to the chair of the meeting.
 
-Dismissal of motions
+
+### Dismissal of motions
 
 (2) Motions submitted to the chair of the meeting before the invitation has been sent out
 
 will be dispatched with it.
 
-Application deadline
+
+### Application deadline
 
 (3) After the opening of the first item on the agenda, motions may no longer be submitted.
 
- 9 - Rules of procedure motions (ROP-motions)
 
-Permitted types of ROP-motions
+##  9 - Rules of procedure motions (ROP-motions)
+
+
+### Permitted types of ROP-motions
 
 (1) Motions of Procedure (ROP-motions) are motions which exclusively influence the procedure of the meeting.
 
@@ -194,13 +220,15 @@ Permitted motions:
 
     14. doubting the quorum (§ 10 point 2)
 
-Notification of motions for agenda items
+
+### Notification of motions for agenda items
 
 (2) Notification of motions concreting the rules of procedure shall be made by
 
 double hand signal. Rules of procedure motions can be submitted at any time and are placed outside the speech list. Motions of procedure to remove items from the agenda, however, may only be made before entry into the agenda.
 
-Handling of motions for business rules
+
+### Handling of motions for business rules
 
 (3) Before voting on a rules of procedure motion, it is possible to hear a speaker against the motion (counter-speech).
 
@@ -209,41 +237,52 @@ If there is no objection, the motion is accepted without a vote.
 If a substantive counter-argument is made, the vote must be cast after the counter-argument was made without further consultation. If a formal counter-argument is made, the vote must be cast without further consultation.
 
 
-# III Voting and elections
+# III. Voting and elections
 
-10 - Quorum
 
-Prerequisites for a quorum, attendance list
+## 10 - Quorum
+
+
+### Prerequisites for a quorum, attendance list
 
 (1) The plenary assembly has a quorum if at least 10 percent of the members are present and if the meeting is duly convened.
 
 § 5 paragraph 2 remains unaffected.
 
-Determining the quorum
+(2) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
 
-(2) The quorum shall be determined by the chair of the meeting at the beginning of each meeting or after the resumption of the meeting. If the quorum is doubted in the course of the meeting (ROP-motion), the chair of the meeting must review the quorum.
 
-Consequences of the absence of a quorum
+### Determining the quorum
 
-(3) In the event of absence of a quorum, the chair shall set a break for a specified period of time or terminate the Student General Assembly. If, after the absence of a quorum, the Student General Assembly is called to deal with the same subject again, it shall in any event constitute a quorum, if this is indicated in the invitation.
+(3) The quorum shall be determined by the chair of the meeting at the beginning of each meeting or after the resumption of the meeting. If the quorum is doubted in the course of the meeting (ROP-motion), the chair of the meeting must review the quorum.
 
-11 - Voting
 
-Majority required
+### Consequences of the absence of a quorum
+
+(4) In the event of the absence of a quorum, the chair shall set a break for a specified period of time or terminate the Student General Assembly. If, after an absence of a quorum, the Student General Assembly is called to deal with the same subject again, it shall in any event constitute a quorum, if this is indicated in the invitation.
+
+
+## 11 - Voting
+
+
+### Majority required
 
 (1) Resolutions shall be passed by a majority of the valid votes cast.
 
 Abstentions shall not be taken into account. 
 
-Motion amendments 
+
+### Motion amendments 
 
 (2) After the consultation, the chair of the meeting shall give the opportunity to propose amendments to the discussed motions and shall then open the vote on those requests.
 
-Separate vote
+
+### Separate vote
 
 (3) Requests may be split and submitted separately for voting (ROP motion).
 
-Order of voting
+
+### Order of voting
 
 (4) The following order of voting shall be observed:
 
@@ -257,19 +296,23 @@ Order of voting
 
 time determinations it must be decided on the longer time first.
 
-Statement of protocol
+
+### Statement of protocol
 
 (6) Any person entitled to speak or make a request shall be entitled, after notification, to make a brief written statement for inclusion in the protocol (statement of protocol).
 
 The text must be submitted no later than the 7th day after the meeting to the chair of the meeting.
 
-12 - Elections
 
-Jurisdiction
+## 12 - Elections
+
+
+### Jurisdiction
 
 (1) The Student General Assembly shall carry out the elections which are determined by the statute.
 
-Electoral procedure
+
+### Electoral procedure
 
 (2) Elections may be held by simple ballot by show of hands. At the request of a member
 
