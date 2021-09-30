@@ -118,6 +118,8 @@ If members of the student body are not present, they may use an electronic votin
 
 (4) The duty to provide information is limited by the requirements of data protection and the protection of personal rights.
 
+(5) The student council commits to establish a communication with other organs of CODE that results in measurable, attainable and specific goal definitions in regards to their efforts with those organs to achieve these goals cooperatively. The maintenance of such communication is matter of the council member of Communication Control.
+
 # II Student General Assembly
 
 ## 10 - Tasks of the Student General Assembly
