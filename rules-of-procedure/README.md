@@ -8,10 +8,11 @@ This repository shall serve as the interface for discussions around future amend
 Therefore, Amendments to the Rules of Procedure can be directly suggested via this platform. Follow the Contributing Guidelines further below to start partcipating here or learn about alternative ways to suggest changes.
 
 ## Latest Version
-* **[v1.2 (Latest)](rules-of-procedure.md)**
+* **[v1.3 (Latest)](rules-of-procedure.md)**
 
 
 ## Archive
+* [v1.2](archive/v1.2.md)
 * [v1.1](archive/v1.1.md)
 * [v1.0 (Initial)](archive/v1.0.md)
 
