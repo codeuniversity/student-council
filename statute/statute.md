@@ -35,13 +35,12 @@ These statutes regulate in particular the education, composition, responsibility
 
 (4) The Student Council is composed of
 
-
-
 1. the three elected members to the Senate,
 2. the five student members of the standing committees (Research commission, Commission for quality assurance in project based learning, Board of Examiners, Admissions committee (2) and Strategy and Development),
 3. the three elected members to the Study Programme Council as the respective representative,
-4. two additional council members (one female and one male),
-5. a chairperson of the council.
+4. a member of Communication Control,
+5. two additional council members (one female and one male),
+6. a chairperson of the council.
 
 (5) Additional representatives elected by the organs are not part of the Student Council.
 
@@ -61,6 +60,7 @@ If members of the student body are not present, they may use an electronic votin
 1. a chairperson of the council,
 2. a female councilmember,
 3. a male councilmember,
+4. a member of Communication Control,
 4. for each standing committee, one person proposed to the Senate for appointment as a student member,
 5. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
 
@@ -131,6 +131,7 @@ If members of the student body are not present, they may use an electronic votin
 
 (2) The duty to provide information is limited by the requirements of data protection and the protection of personal rights.
 
+## 10
 
 # II Student General Assembly
 
@@ -200,7 +201,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (2) The General Assembly of a Study Programme elects a representative for the senate, who automatically joins the Student Council.
 
-(3) The General Assembly of a Study Programme elects a representative for the Study Programme Council, who automatically joins the Student Council. \
+(3) The General Assembly of a Study Programme elects a representative for the Study Programme Council, who automatically joins the Student Council.
 
 
 
@@ -248,11 +249,19 @@ The meetings of the Student Council have a quorum if at least half of the member
 
 ## 21 - Meetings of the Student Council
 
-The Student Council meets on
+(1) The Student Council meets on
 
 1. resolution of the chairperson of the council,
 
 2. a request from one third of the members of the Student Council.
+
+(2) Meetings convened by the student council have to be documented by notes or have to be protocolized.
+
+(3) Official notes and protocols of a meeting convened by the council have to be made public and accessible within four weeks after their creation.
+
+(4) The quality and creation of public notes is supervised and ensured by the elected member of Communication Control.
+
+(5) The task delegation of writing notes or protocols is matter of the convening chair.
 
 
 ## 22- Decisions of the Student Council
