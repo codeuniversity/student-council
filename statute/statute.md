@@ -38,7 +38,7 @@ These statutes regulate in particular the education, composition, responsibility
 
 
 1. the three elected members to the Senate,
-2. the five student members of the standing committees (Research commission, Commission for quality assurance in project based learning, Board of Examiners, Admissions committee (2) and Strategy and Development),
+2. the five student members of the standing committees (Research commission, Commission for Quality Assurance in Project Based Learning, Board of Examiners and Admissions committee (2)),
 3. the three elected members to the Study Programme Council as the respective representative,
 4. two additional council members (one female and one male),
 5. a chairperson of the council.
