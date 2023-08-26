@@ -1,16 +1,12 @@
 # Statutes of the Student Body of the CODE University of Applied Sciences
 
-
 From December 18, 2020
 
-
 # I General
-
 
 ## § 1 - Scope of application
 
 These statutes regulate in particular the education, composition, responsibility, procedures and terms of office of the student body of the CODE University of Applied Sciences.
-
 
 ## 2 - Student body
 
@@ -23,8 +19,6 @@ These statutes regulate in particular the education, composition, responsibility
 
 (1) The central organs of the student body are
 
-
-
 1. the Student General Assembly,
 2. the General Assemblies of the Study Programmes,
 3. the Student Council.
@@ -35,16 +29,14 @@ These statutes regulate in particular the education, composition, responsibility
 
 (4) The Student Council is composed of
 
-
-
 1. the three elected members to the Senate,
 2. the five student members of the standing committees (Research commission, Commission for quality assurance in project based learning, Board of Examiners, Admissions committee (2) and Strategy and Development),
 3. the three elected members to the Study Programme Council as the respective representative,
-4. two additional council members (one female and one male),
-5. a chairperson of the council.
+4. two general council members (one female and one male),
+5. a council member representing the needs of international students and development (council member for Internationality),
+6. a chairperson of the council.
 
 (5) Additional representatives elected by the organs are not part of the Student Council.
-
 
 ## 4 - Elections to the organs of the student body
 
@@ -56,13 +48,12 @@ If members of the student body are not present, they may use an electronic votin
 
 (3) The Student Assembly elects in the following order
 
-
-
 1. a chairperson of the council,
 2. a female councilmember,
 3. a male councilmember,
-4. for each standing committee, one person proposed to the Senate for appointment as a student member,
-5. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
+4. a councilmember for Internationality,
+5. for each standing committee, one person proposed to the Senate for appointment as a student member,
+6. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
 
 (4) The General Assembly of the Study Programmes elect a member of the Senate. The elected student members of the Study Programme Council are a deputy to the respective student member of the Senate.  
 
@@ -92,11 +83,8 @@ If members of the student body are not present, they may use an electronic votin
 
 (1) An elected representative gets automatically removed from office if they
 
-
-    1. lose eligibility,
-
-
-    2. resign from office.
+1. lose eligibility,
+2. resign from office.
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
@@ -187,7 +175,6 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (2) If the General Assembly of the Study Programmes is held within a Student General Assembly, the chair (Student Council or Presidium) of the Student General Assembly will also chair the General Assemblies of the Study Programmes.
 
-
 ## 16 - Work of the General Assemblies of the Study Programmes
 
 (1) The General Assembly of a Study Programme meets at
@@ -201,8 +188,6 @@ The Student General Assembly shall adopt its own rules of procedure.
 (2) The General Assembly of a Study Programme elects a representative for the senate, who automatically joins the Student Council.
 
 (3) The General Assembly of a Study Programme elects a representative for the Study Programme Council, who automatically joins the Student Council. \
-
-
 
 ## 17 - Quorum
 
@@ -220,9 +205,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (1) The Student Council shall decide on
 
-
-    1. fundamental matters of the student body representing the Student General Assembly,
-
+1. fundamental matters of the student body representing the Student General Assembly,
 2. the convening of a Student General Assembly.
 
 (2) The Student Council represents the student body in the different organs of the university.
