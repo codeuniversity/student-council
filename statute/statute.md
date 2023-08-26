@@ -34,7 +34,8 @@ These statutes regulate in particular the education, composition, responsibility
 3. the three elected members to the Study Programme Council as the respective representative,
 4. two general council members (one female and one male),
 5. a council member representing the needs of international students and development (council member for Internationality),
-6. a chairperson of the council.
+6. a council member representing the student body's interest in digitial information management (council member for Information Management),
+7. a chairperson of the council.
 
 (5) Additional representatives elected by the organs are not part of the Student Council.
 
@@ -52,8 +53,9 @@ If members of the student body are not present, they may use an electronic votin
 2. a female councilmember,
 3. a male councilmember,
 4. a councilmember for Internationality,
-5. for each standing committee, one person proposed to the Senate for appointment as a student member,
-6. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
+5. a councilmember for Information Management,
+6. for each standing committee, one person proposed to the Senate for appointment as a student member,
+7. for the study programmes Software Engineering (SE), Interaction Design (ID) and Product Management (PM), one person proposed to the Study Programme Council for appointment as a student member.
 
 (4) The General Assembly of the Study Programmes elect a member of the Senate. The elected student members of the Study Programme Council are a deputy to the respective student member of the Senate.  
 
