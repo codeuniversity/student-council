@@ -7,7 +7,7 @@ From September 04, 2025
 # I General
 
 
-## § 1 - Scope of application
+## 1 - Scope of application
 
 These statutes regulate in particular the education, composition, responsibility, procedures and terms of office of the student body of the CODE University of Applied Sciences.
 
@@ -122,8 +122,6 @@ If members of the student body are not present, they may use an electronic votin
 (2) The amendment of the statutes of the student body requires the approval of a majority of two thirds of the members of the Student Assembly.
 
 (3) Legal regulations issued by the Student General Assembly shall be published in the Slack and Wiki of the CODE University of Applied Sciences.
-
-(4) Where required by the university's constitutional documents or recognition conditions, amendments that affect governance structures shall be submitted to the competent Berlin Senate administration for confirmation prior to entry into force.
 
 
 ## 9 - Duty of information and accountability
