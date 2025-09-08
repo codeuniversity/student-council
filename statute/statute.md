@@ -1,7 +1,7 @@
 # Statutes of the Student Body of the CODE University of Applied Sciences
 
 
-From September 06, 2025
+From September 08, 2025
 
 
 # I General
@@ -24,12 +24,9 @@ These statutes regulate in particular the education, composition, responsibility
 (1) The central organs of the student body are
 
 1. the Student General Assembly,
-2. the General Assemblies of the Study Programmes,
-3. the Student Council.
+2. the Student Council.
 
 (2) The Student General Assembly is composed of the student body at the time of the meeting.
-
-(3) The General Assembly of the Study Programmes shall be composed of members of the student body of the respective degree programmes (Business Management & Entrepreneurship, Digital Design & Innovation, Software Engineering, Technology & Management) at the time of the meeting.
 
 (4) The Student Council consists of seven portfolio roles:
 
@@ -43,7 +40,7 @@ These statutes regulate in particular the education, composition, responsibility
 
 The student representatives in CODEs Academic Senate are elected pursuant to § 16(2). Student representatives in the Academic Senate can be; but are not required to be members of the Student Council.
 
-(5) Student members appointed to university committees (Research Commission, Commission for Quality Assurance in Project-Based Learning, Board of Examiners, Admissions Committee, Strategy & Development, Alumni) are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
+(5) Student members appointed to university Senate are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
 
 
 ## 4 - Elections to the organs of the student body
@@ -59,17 +56,16 @@ If members of the student body are not present, they may use an electronic votin
 2.–7. the six portfolio leads named in § 3(4) (Alumni Relations; Admissions & Study Experience; Community Builder; Marketing; Entrepreneurship; Partnerships),
 8. for each study programme, one person proposed to the Senate for appointment as a student member,
 
-(4) The General Assemblies of the Study Programmes elect one member of the Senate per programme in accordance with § 16(2).
 
-(5) Elections follow majority voting as in § 4(6)–(8). All roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination.
+(4) Elections follow majority voting as in § 4(6)–(8). All roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination.
 
-(6) The members of the organs are elected according to the principles of majority voting. The person with the most votes, but at least 50% + 1 votes gets elected. If no candidate manages to achieve this majority a final ballot between the person with the most votes and the runner up is held. The person with the most votes in the final ballot is elected.
+(5) The members of the organs are elected according to the principles of majority voting. The person with the most votes, but at least 50% + 1 votes gets elected. If no candidate manages to achieve this majority a final ballot between the person with the most votes and the runner up is held. The person with the most votes in the final ballot is elected.
 
-(7) In a majority election, the voting person has as many votes as there are positions to be filled.
+(6) In a majority election, the voting person has as many votes as there are positions to be filled.
 
-(8) Only one vote per person can be cast.
+(7) Only one vote per person can be cast.
 
-(9) Every elected representative can be released from their duties at any point according to the principles of majority voting described in §4(6).
+(8) Every elected representative can be released from their duties at any point according to the principles of majority voting described in §4(6).
 
 
 ## 5 - Terms of office, rotation
@@ -97,13 +93,9 @@ If members of the student body are not present, they may use an electronic votin
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
-(3) If a member resigns from a body elected by the General Assembly of the Study Programmes,  a successor is to be elected immediately.
-
 (4) If a member of a committee is not able to attend a meeting, another member of the Student Council can take the place. This can happen for up to three consecutive committee meetings.
 
 (5) If a member of the Senate is not able to attend a meeting, the deputy member can take the place.
-
-(6) If the student representative of the Admissions committee is not able to attend an admission day, the representative can freely choose a replacement from the student body. It should be kept in mind that the maturity and the training of the replacement person is given to ensure a high quality and fair admission process.
 
 (7) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Until then, the President may assign interim coverage to another Council member.
 
@@ -142,18 +134,24 @@ If members of the student body are not present, they may use an electronic votin
 
 2. the discharge of the members of the Student Council.
 
-(2) It shall carry out the elections assigned to it by these Statutes or by virtue of other legal provisions or shall propose candidates for committees outside the scope of these Statutes for election, unless other legal provisions provide otherwise.
+(2) It shall carry out the elections assigned to it by these Statutes or by virtue of other legal provisions or shall propose candidates for election, unless other legal provisions provide otherwise.
 
 
 ## 11 - Work of the Student General Assembly
 
-(1) The Student General Assembly meets at
+(1) The Student General Assembly elects representatives for the Student Council.
+
+(2) The Student General Assembly elects representatives for the Academic Senate.
+
+(3) The representatives for the Academic Senate are elected directly by the Student General Assembly.
+
+(4) The Student General Assembly meets at
 
 1. resolution of the Student Council,
 
 2. demand of 10 percent of all members of the student body.
 
-(2) The Student General Assembly is open to every member of the University (including non academic members, academic members and other staff).
+(5) The Student General Assembly is open to every member of the University (including non academic members, academic members and other staff).
 
 
 ## 12 - Leadership of the Student General Assembly
@@ -177,42 +175,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 (3) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
 
 
-# III General Assemblies of the Study Programmes
-
-
-## 15 - Chairing the General Assembly of the Study Programmes
-
-(1) The General Assemblies of the Study Programmes are chaired by Presidiums consisting of three people. The election of each Presidium shall take place by open ballot by a show of hands. Resolutions of a Presidium can only be passed unanimously. 
-
-(2) If the General Assembly of the Study Programmes is held within a Student General Assembly, the chair (Student Council or Presidium) of the Student General Assembly will also chair the General Assemblies of the Study Programmes.
-
-
-## 16 - Work of the General Assemblies of the Study Programmes
-
-(1) The General Assembly of a Study Programme meets at
-
-1. resolution of the student council,
-
-2. resolution of the Student General Assembly,
-
-3. a request from 10 percent of all members of a study program.
-
-(2) The General Assembly of a Study Programme elects a representative for the senate, who automatically joins the Student Council.
-
-(3) The General Assembly of a Study Programme elects a representative for the Study Programme Council, who automatically joins the Student Council. \
-
-
-
-## 17 - Quorum
-
-(1) The General Assemblies of the Study Programmes shall constitute a quorum if 10 percent of all members of the degree programme are present.
-
-(2) If a General Assembly of the Study Programmes is convened again after a lack of quorum to discuss the same subject, it shall in any case be quorate if this is indicated in the invitation.
-
-(3) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
-
-
-# IV Student Council
+# III Student Council
 
 
 ## 18 - Tasks of the Student Council
@@ -282,4 +245,4 @@ The Student Council meets on
 
 ## Transitional Provision
 
-This amendment applies from the first election period after adoption. Current office holders remain until the new election; committee and Senate representatives continue per their original terms.
+This amendment applies from the first election period after adoption. Current office holders remain until the new election; Senate representatives continue per their original terms.
