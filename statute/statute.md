@@ -1,7 +1,7 @@
 # Statutes of the Student Body of the CODE University of Applied Sciences
 
 
-From September 04, 2025
+From September 06, 2025
 
 
 # I General
@@ -41,7 +41,7 @@ These statutes regulate in particular the education, composition, responsibility
 6. Entrepreneurship,
 7. Partnerships.
 
-The three student members of the Senate are elected pursuant to § 16(2). Where feasible, Senate mandates should be held by members of the Student Council; if not possible, they may be held by other students. Senate members are not separate seats in the Student Council.
+The student representatives in CODEs Academic Senate are elected pursuant to § 16(2). Student representatives in the Academic Senate can be; but are not required to be members of the Student Council.
 
 (5) Student members appointed to university committees (Research Commission, Commission for Quality Assurance in Project-Based Learning, Board of Examiners, Admissions Committee, Strategy & Development, Alumni) are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
 
@@ -57,7 +57,7 @@ If members of the student body are not present, they may use an electronic votin
 (3) The Student General Assembly elects, in separate ballots and in this order:
 1. the President,
 2.–7. the six portfolio leads named in § 3(4) (Alumni Relations; Admissions & Study Experience; Community Builder; Marketing; Entrepreneurship; Partnerships),
-8. for each standing committee, one person proposed to the Senate for appointment as a student member,
+8. for each study programme, one person proposed to the Senate for appointment as a student member,
 
 (4) The General Assemblies of the Study Programmes elect one member of the Senate per programme in accordance with § 16(2).
 
@@ -219,7 +219,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (1) The Student Council (seven portfolios) represents the student body and executes the following, among others:
 1. convene Student General Assemblies,
-2. coordinate with Senate and committees (§ 3(5)),
+2. coordinate with Senate (§ 3(5)),
 3. gather and synthesize feedback,
 4. own and drive portfolio-specific initiatives (see § 18a),
 5. invite guests for specific topics.
@@ -254,7 +254,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 ## 19 - Management of the Student Council
 
-(1) The Student Council shall be chaired by the chairperson of the council.
+(1) The Student Council shall be chaired by the President of the council.
 
 (2) If there is no Student Council chairing member in office, the Student Council shall be headed by a Presidium consisting of three members. The election of the Presidium shall be held by open ballot by a show of hands. Resolutions of the Presidium can only be passed unanimously.
 
