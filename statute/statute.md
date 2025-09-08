@@ -168,7 +168,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (2) If the Student General Assembly is convened again after an absence of a quorum to deal with the same matter, it shall in any case be quorate if this is indicated in the invitation.
 
-(3) “Present” only includes physical presence and not being present online, e.g. to take part in online votes.
+(3) “Present” includes both physical and online presence, e.g. participation in person or via an online voting/attendance system.
 
 
 # III Student Council
