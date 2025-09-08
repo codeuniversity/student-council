@@ -38,9 +38,9 @@ These statutes regulate in particular the education, composition, responsibility
 6. Entrepreneurship,
 7. Partnerships.
 
-The student representatives in CODEs Academic Senate are elected pursuant to § 16(2). Student representatives in the Academic Senate can be; but are not required to be members of the Student Council.
+In addition, student representatives in CODEs Academic Senate are elected pursuant to § 16(2). Student representatives in the Academic Senate can be; but are not required to be members of the Student Council.
 
-(5) Student members appointed to university Senate are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
+(5) Student representatives in CODEs Academic Senate are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
 
 
 ## 4 - Elections to the organs of the student body
@@ -93,11 +93,9 @@ If members of the student body are not present, they may use an electronic votin
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
-(4) If a member of a committee is not able to attend a meeting, another member of the Student Council can take the place. This can happen for up to three consecutive committee meetings.
+(3) If a member of the Senate is not able to attend a meeting, the deputy member can take the place.
 
-(5) If a member of the Senate is not able to attend a meeting, the deputy member can take the place.
-
-(7) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Until then, the President may assign interim coverage to another Council member.
+(4) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Until then, the President may assign interim coverage to another Council member.
 
 
 ## 7 - Convening
@@ -141,17 +139,15 @@ If members of the student body are not present, they may use an electronic votin
 
 (1) The Student General Assembly elects representatives for the Student Council.
 
-(2) The Student General Assembly elects representatives for the Academic Senate.
+(2) The Student General Assembly elects representatives for the Academic Senate. One representative per study programme is elected. These representatives are directly elected by the Student General Assembly.
 
-(3) The representatives for the Academic Senate are elected directly by the Student General Assembly.
-
-(4) The Student General Assembly meets at
+(3) The Student General Assembly meets at
 
 1. resolution of the Student Council,
 
 2. demand of 10 percent of all members of the student body.
 
-(5) The Student General Assembly is open to every member of the University (including non academic members, academic members and other staff).
+(4) The Student General Assembly is open to every member of the University (including non academic members, academic members and other staff).
 
 
 ## 12 - Leadership of the Student General Assembly
@@ -182,9 +178,9 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (1) The Student Council (seven portfolios) represents the student body and executes the following, among others:
 1. convene Student General Assemblies,
-2. coordinate with Senate (§ 3(5)),
+2. coordinate with the Academic Senate through its elected student representatives,
 3. gather and synthesize feedback,
-4. own and drive portfolio-specific initiatives (see § 18a),
+4. own and drive portfolio-specific initiatives (see §18a),
 5. invite guests for specific topics.
 
 (2) The Student Council represents the student body in the different organs of the university.
@@ -217,7 +213,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 ## 19 - Management of the Student Council
 
-(1) The Student Council shall be chaired by the President of the council.
+(1) The Student Council shall be chaired by the President of the Student Council.
 
 (2) If there is no Student Council chairing member in office, the Student Council shall be headed by a Presidium consisting of three members. The election of the Presidium shall be held by open ballot by a show of hands. Resolutions of the Presidium can only be passed unanimously.
 
