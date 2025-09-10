@@ -237,8 +237,3 @@ The Student Council meets on
 (1) The Student Council makes decisions according to the principles of majority voting.
 
 (2) In the situation of a tie the vote goes in favour of the chairperson.
-
-
-## Transitional Provision
-
-This amendment applies from the first election period after adoption. Current office holders remain until the new election; Senate representatives continue per their original terms.
