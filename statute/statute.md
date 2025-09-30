@@ -95,9 +95,10 @@ Each ballot for Academic Senate and Study Program Council includes both a main s
 
 (2) If a member leaves a body elected by the Student Assembly for which no substitute members are provided, a successor is to be elected immediately.
 
-(3) If a member of the Senate is not able to attend a meeting, the deputy member can take the place.
+(3a) If a member of the Academic Senate is not able to attend a meeting, the deputy member can take the place.
+(3b) If a member of a Study Program Council is not able to attend a meeting, the deputy member can take the place.
 
-(4) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Until then, the President may assign interim coverage to another Council member.
+(4) If a portfolio role becomes vacant, the Student General Assembly may hold a by-election at the next regular or extraordinary meeting. Vacancies in Academic Senate or Study Program Council seats are filled by program-specific by-elections. Until then, the President may assign interim coverage to another Council member.
 
 
 ## 7 - Convening
@@ -109,12 +110,13 @@ Each ballot for Academic Senate and Study Program Council includes both a main s
 
 ## 8 - Amendment of legal provisions
 
-(1) Proposals for resolutions on amendments to the legal provisions adopted by the Student Assembly must be sent to its members together with the invitation to the relevant meeting.
+(1) Proposals for resolutions on amendments to the legal provisions adopted by the Student General Assembly must be sent to its members together with the invitation to the relevant meeting.
 
-(2) The amendment of the statutes of the student body requires the approval of a majority of two thirds of the members of the Student Assembly.
+(2) The amendment of the statutes of the student body requires the approval of a majority of two thirds of the members of the Student General Assembly.
 
 (3) Legal regulations issued by the Student General Assembly shall be published in the Slack and Wiki of the CODE University of Applied Sciences.
 
+(4) These statutes take effect upon approval by the Presidium.
 
 ## 9 - Duty of information and accountability
 
@@ -142,6 +144,7 @@ Each ballot for Academic Senate and Study Program Council includes both a main s
 (1) The Student General Assembly elects representatives for the Student Council.
 
 (2) Student representatives to the Academic Senate and to the Study Program Councils are elected in accordance with the University's Election Regulations (one student seat and one deputy per study program in each body). All candidates for Student Council portfolios are automatically nominated for these elections in their respective study programs. The Student General Assembly may host candidate statements and Q&A.
+Additional nominations from each study program remain open under the University’s Election Regulations. Candidates may opt out of being listed on AS/SPC ballots.
 
 (3) The Student General Assembly meets at
 
