@@ -38,9 +38,7 @@ These statutes regulate in particular the education, composition, responsibility
 6. Entrepreneurship,
 7. Partnerships.
 
-In addition, student representatives in CODEs Academic Senate are elected pursuant to § 16(2). Student representatives in the Academic Senate can be; but are not required to be members of the Student Council.
-
-(5) Student representatives in CODEs Academic Senate are not ex officio members of the Student Council. They shall coordinate with the Council and may be invited as guests (§ 18(5)).
+In addition, student representatives to the Academic Senate and to the Study Program Councils are elected under the University's Election Regulations. Every candidate for a Student Council portfolio role is automatically also nominated for the Academic Senate and the Study Program Council seat of their own study program. These representatives may, but do not have to, be members of the Student Council. They are invited to Council meetings when their topics are discussed.
 
 
 ## 4 - Elections to the organs of the student body
@@ -53,9 +51,9 @@ If members of the student body are not present, they may use an electronic votin
 
 (3) The Student General Assembly elects, in separate ballots and in this order:
 1. the President,
-2.–7. the six portfolio leads named in § 3(4) (Alumni Relations; Admissions & Study Experience; Community Builder; Marketing; Entrepreneurship; Partnerships),
-8. for each study programme, one person proposed to the Senate for appointment as a student member,
+2.–7. the six portfolio leads named in § 3(4) (Alumni Relations; Admissions & Study Experience; Community Builder; Marketing; Entrepreneurship; Partnerships)
 
+Candidates for Student Council portfolio roles are automatically listed on the ballots for their own study program's Academic Senate and Study Program Council elections, in accordance with the University's Election Regulations.
 
 (4) Elections follow majority voting as in § 4(6)–(8). All roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination.
 
@@ -139,7 +137,7 @@ If members of the student body are not present, they may use an electronic votin
 
 (1) The Student General Assembly elects representatives for the Student Council.
 
-(2) The Student General Assembly elects representatives for the Academic Senate. One representative per study programme is elected. These representatives are directly elected by the Student General Assembly.
+(2) Student representatives to the Academic Senate and to the Study Program Councils are elected in accordance with the University's Election Regulations (one student seat per study program in each body). All candidates for Student Council portfolios are automatically nominated for these elections in their respective study programs. The Student General Assembly may host candidate statements and Q&A.
 
 (3) The Student General Assembly meets at
 
@@ -174,11 +172,11 @@ The Student General Assembly shall adopt its own rules of procedure.
 # III Student Council
 
 
-## 18 - Tasks of the Student Council
+## 15 - Tasks of the Student Council
 
 (1) The Student Council (seven portfolios) represents the student body and executes the following, among others:
 1. convene Student General Assemblies,
-2. coordinate with the Academic Senate through its elected student representatives,
+2. coordinate with the Academic Senate, the Study Program Councils and the university committees through their elected student representatives,
 3. gather and synthesize feedback,
 4. own and drive portfolio-specific initiatives (see §18a),
 5. invite guests for specific topics.
@@ -192,7 +190,7 @@ The Student General Assembly shall adopt its own rules of procedure.
 (5) The Student Council can invite people to their meetings to discuss specific matters.
 
 
-## 18a - Portfolios & responsibilities
+## 15a - Portfolios & responsibilities
 
 (1) President. Spokesperson; chairs Council; external representation; ensures execution across portfolios.
 
@@ -210,20 +208,32 @@ The Student General Assembly shall adopt its own rules of procedure.
 
 (8) Portfolios may form working groups; non-members can be recruited as volunteers.
 
+## 15b - Committee representation
 
-## 19 - Management of the Student Council
+(1) The Student Council elects the student representatives to the following university committees annually: Admissions Committee (two students), Commission for Quality Assurance in Project-Based Learning (one student), Research Commission (one student).
+
+(2) Default assignment of committee seats to portfolios:
+- Admissions & Study Experience takes one seat on the Admissions Committee;
+- Community Builder takes one seat on the Admissions Committee;
+- Entrepreneurship takes the seat on the Commission for Quality Assurance in Project-Based Learning;
+- Partnerships takes the seat on the Research Commission.
+The Council may assign different students if needed.
+
+(3) One person may hold more than one role or committee seat.
+
+## 16 - Management of the Student Council
 
 (1) The Student Council shall be chaired by the President of the Student Council.
 
 (2) If there is no Student Council chairing member in office, the Student Council shall be headed by a Presidium consisting of three members. The election of the Presidium shall be held by open ballot by a show of hands. Resolutions of the Presidium can only be passed unanimously.
 
 
-## 20 - Quorum
+## 17 - Quorum
 
 The meetings of the Student Council have a quorum if at least half of the members of the Student Council are present.
 
 
-## 21 - Meetings of the Student Council
+## 18 - Meetings of the Student Council
 
 The Student Council meets on
 
@@ -232,7 +242,7 @@ The Student Council meets on
 2. a request from one third of the members of the Student Council.
 
 
-## 22- Decisions of the Student Council
+## 19- Decisions of the Student Council
 
 (1) The Student Council makes decisions according to the principles of majority voting.
 
