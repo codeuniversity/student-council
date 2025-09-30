@@ -38,7 +38,10 @@ These statutes regulate in particular the education, composition, responsibility
 6. Entrepreneurship,
 7. Partnerships.
 
-In addition, student representatives to the Academic Senate and to the Study Program Councils are elected under the University's Election Regulations. Every candidate for a Student Council portfolio role is automatically also nominated for the Academic Senate and the Study Program Council seat of their own study program. These representatives may, but do not have to, be members of the Student Council. They are invited to Council meetings when their topics are discussed.
+In addition, student representatives to the Academic Senate and to the Study Program Councils are elected under the University's Election Regulations. Every candidate for a Student Council portfolio role is automatically also nominated for the Academic Senate and the Study Program Council seat of their own study program.
+For each Academic Senate and Study Program Council seat, one deputy member is also elected in the same election.
+
+These representatives may, but do not have to, be members of the Student Council. They are invited to Council meetings when their topics are discussed.
 
 
 ## 4 - Elections to the organs of the student body
@@ -54,6 +57,7 @@ If members of the student body are not present, they may use an electronic votin
 2.–7. the six portfolio leads named in § 3(4) (Alumni Relations; Admissions & Study Experience; Community Builder; Marketing; Entrepreneurship; Partnerships)
 
 Candidates for Student Council portfolio roles are automatically listed on the ballots for their own study program's Academic Senate and Study Program Council elections, in accordance with the University's Election Regulations.
+Each ballot for Academic Senate and Study Program Council includes both a main seat and a deputy seat. The candidate with the highest votes becomes the main member, and the runner-up becomes the deputy.
 
 (4) Elections follow majority voting as in § 4(6)–(8). All roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination.
 
@@ -137,7 +141,7 @@ Candidates for Student Council portfolio roles are automatically listed on the b
 
 (1) The Student General Assembly elects representatives for the Student Council.
 
-(2) Student representatives to the Academic Senate and to the Study Program Councils are elected in accordance with the University's Election Regulations (one student seat per study program in each body). All candidates for Student Council portfolios are automatically nominated for these elections in their respective study programs. The Student General Assembly may host candidate statements and Q&A.
+(2) Student representatives to the Academic Senate and to the Study Program Councils are elected in accordance with the University's Election Regulations (one student seat and one deputy per study program in each body). All candidates for Student Council portfolios are automatically nominated for these elections in their respective study programs. The Student General Assembly may host candidate statements and Q&A.
 
 (3) The Student General Assembly meets at
 
