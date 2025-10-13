@@ -60,7 +60,7 @@ If members of the student body are not present, they may use an electronic votin
 Candidates for Student Council portfolio roles are automatically listed on the ballots for their own study program's Academic Senate and Study Program Council elections, in accordance with the University's Election Regulations.
 Each ballot for Academic Senate and Study Program Council includes both a main seat and a deputy seat. The candidate with the highest votes becomes the main member, and the runner-up becomes the deputy.
 
-(4) Elections follow majority voting as in § 4(6)–(8). With the exception of the Representation & Equity portfolio, all roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination. The Representation & Equity portfolio must be held by a FLINTA+ student (women, lesbians, intersex, non-binary, trans, and agender persons).
+(4) Elections follow majority voting as in § 4(6)–(8). With the exception of the Representation & Equity portfolio, all roles are open to all students, irrespective of gender and age. Diversity and equal opportunity are to be fostered in candidate outreach and nomination. 
 
 (5) Gender equity safeguard. To ensure equitable representation, the Student Council composition must reflect gender diversity as follows:
 
